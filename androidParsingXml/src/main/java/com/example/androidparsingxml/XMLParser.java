@@ -122,5 +122,5 @@ public class XMLParser extends ActionBarActivity {
         return doc;
     }
 
-
+    
 }
